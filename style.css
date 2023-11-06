@@ -63,6 +63,7 @@
 }
 .banner-Wraper{
   display: flex;
+  justify-content:space-between;
   align-items: center;
   padding: 60px 0px 0px 120px;
   width: 100%;
